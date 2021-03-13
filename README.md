@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-readme-stats.vercel.app/api?username=Jiang-Niao&show_icons=true
+
+<img src="https://user-images.githubusercontent.com/45918704/88783153-08844180-d1c1-11ea-85e8-38a9636c8c28.png"  width="20%" height="20%" />
+
+
+---
+
+[![99Kies's github stats](https://github-readme-stats.vercel.app/api?username=Jiang-Niao&show_icons=true)]
